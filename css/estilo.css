@@ -1,7 +1,21 @@
+h1 {
+    margin-left: 50px;
+}
+
+#num1, #num2{
+    border: 1px solid black; 
+    padding: 10px 10px ;
+    border-radius: 10px;
+    background-color: rgb(233, 255, 248);
+    margin-left: 60px;
+}
+
 #calc{
     background-color: aquamarine;
-    margin-left: 100px;
+    margin-left: 70px;
     border-radius: 10px;
+    padding: 5px 45px;
+    border: none; 
 }
 
 #calc:hover{
@@ -13,6 +27,6 @@
 #resultado {
     font-size: 30px; 
     color: blueviolet; 
-    margin-left: 100px;
-    
+    margin-left: 110px;
+
 }
