@@ -1,0 +1,18 @@
+#calc{
+    background-color: aquamarine;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+#calc:hover{
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    color: aquamarine;
+}
+
+#resultado {
+    font-size: 30px; 
+    color: blueviolet; 
+    margin-left: 100px;
+    
+}
